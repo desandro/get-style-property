@@ -21,5 +21,5 @@ var supportsTranforms = !!transformProp;
 :bird: This script is a [Bower](https://github.com/twitter/bower) component :bird:
 
 ``` bash
-bower install desandro/classie
+bower install desandro/get-style-property
 ```
