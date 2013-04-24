@@ -4,6 +4,7 @@
  */
 
 /*jshint browser: true, strict: true, undef: true */
+/*globals define: false */
 
 ( function( window ) {
 
@@ -31,7 +32,15 @@ function getStyleProperty( propName ) {
   }
 }
 
-// publicize
-window.getStyleProperty = getStyleProperty;
+// transport
+if ( typeof define === 'function' && define.amd ) {
+  // AMD
+  define( function() {
+    return getStyleProperty;
+  });
+} else {
+  // browser global
+  window.getStyleProperty = getStyleProperty;
+}
 
 })( window );
