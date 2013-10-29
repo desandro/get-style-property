@@ -16,17 +16,15 @@ element.style[ transformProp ] = 'translate( 12px, 34px )';
 var supportsTranforms = !!transformProp;
 ```
 
-## Bower
+## Install with package manager
 
-:bird: This script is a [Bower](https://github.com/twitter/bower) component :bird:
+Install with [Bower](http://bower.io) :bird:
 
 ``` bash
 bower install desandro/get-style-property
 ```
 
-## Component
-
-As an alternative, you can also use [component](http://github.com/component/component):
+Or [Component](http://github.com/component/component)
 
 ``` bash
 component install desandro/get-style-property
