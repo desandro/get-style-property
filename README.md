@@ -23,3 +23,11 @@ var supportsTranforms = !!transformProp;
 ``` bash
 bower install desandro/get-style-property
 ```
+
+## Component
+
+As an alternative, you can also use [component](http://github.com/component/component):
+
+``` bash
+component install desandro/get-style-property
+```
