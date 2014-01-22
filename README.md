@@ -1,8 +1,6 @@
 # getStyleProperty - quick & dirty CSS property testing
 
-by [@kangax](https://github.com/kangax) :heart_eyes: :zap: :star2:
-
-See [perfectionkills.com/feature-testing-css-properties/](http://perfectionkills.com/feature-testing-css-properties/)
+[Original by @kangax](https://github.com/kangax/cft/blob/gh-pages/getStyleProperty.js) :heart_eyes: :zap: :star2:. See [perfectionkills.com/feature-testing-css-properties/](http://perfectionkills.com/feature-testing-css-properties/)
 
 ``` js
 var transformProp = getStyleProperty('transform');
@@ -29,3 +27,7 @@ Or [Component](http://github.com/component/component)
 ``` bash
 component install desandro/get-style-property
 ```
+
+## MIT License
+
+getStyleProperty is released under the [MIT License](http://desandro.mit-license.org/).
