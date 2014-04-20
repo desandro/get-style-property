@@ -1,0 +1,18 @@
+{
+  "name": "get-style-property",
+  "version": "1.0.3",
+  "description": "[Original by @kangax](https://github.com/kangax/cft/blob/gh-pages/getStyleProperty.js) :heart_eyes: :zap: :star2:. See [perfectionkills.com/feature-testing-css-properties/](http://perfectionkills.com/feature-testing-css-properties/)",
+  "main": "get-style-property.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/desandro/get-style-property.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/desandro/get-style-property/issues"
+  },
+  "homepage": "https://github.com/desandro/get-style-property"
+}
