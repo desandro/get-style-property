@@ -1,7 +1,7 @@
 {
   "name": "get-style-property",
   "version": "1.0.3",
-  "description": "[Original by @kangax](https://github.com/kangax/cft/blob/gh-pages/getStyleProperty.js) :heart_eyes: :zap: :star2:. See [perfectionkills.com/feature-testing-css-properties/](http://perfectionkills.com/feature-testing-css-properties/)",
+  "description": "Quick and dirty CSS property testing",
   "main": "get-style-property.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
