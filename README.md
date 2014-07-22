@@ -19,7 +19,7 @@ var supportsTranforms = !!transformProp;
 Install with [Bower](http://bower.io) :bird:
 
 ``` bash
-bower install desandro/get-style-property
+bower install get-style-property
 ```
 
 Or [Component](http://github.com/component/component)
