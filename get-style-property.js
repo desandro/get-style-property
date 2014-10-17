@@ -1,5 +1,5 @@
 /*!
- * getStyleProperty v1.0.3
+ * getStyleProperty v1.0.4
  * original by kangax
  * http://perfectionkills.com/feature-testing-css-properties/
  * MIT license

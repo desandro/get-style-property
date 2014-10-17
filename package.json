@@ -1,6 +1,6 @@
 {
   "name": "desandro-get-style-property",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Quick and dirty CSS property testing",
   "main": "get-style-property.js",
   "scripts": {
